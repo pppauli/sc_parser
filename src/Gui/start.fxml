@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="193.0" prefWidth="430.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="Gui.Controller">
+  <children>
+    <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" prefWidth="170.0" text="Choose CSV-File" />
+    <Button fx:id="createXmlBtn" layoutX="246.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleCreateXmlBtn" prefWidth="170.0" text="Create XML" />
+    <TextField fx:id="pathTextField" editable="false" layoutX="14.0" layoutY="44.0" prefWidth="402.0" promptText="path" />
+  </children>
+</AnchorPane>

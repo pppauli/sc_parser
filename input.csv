@@ -1,0 +1,129 @@
+local name,name,category,class,type,subtype,manufacturer,size,mass,hp,price,dps 180s,dps 60s,dps 20s,dps 10s,dps no pipe,"weapon
+rate
+(shot/min)","ammo count
+default","ammo
+name","ammo
+size","ammo
+lifetime
+(s)","ammo
+speed
+(m/s)","ammo
+range
+(m)","ammo
+damage total physical
+(dmg)","ammo
+damage total energy
+(dmg)","ammo
+damage total distortion
+(dmg)","ammo
+damage total
+(dmg)","ammo
+projectile damage physical
+(dmg)","ammo
+projectile damage energy
+(dmg)","ammo
+projectile damage distortion
+(dmg)","ammo
+explosive damage physical
+(dmg)","ammo
+explosive damage energy
+(dmg)","ammo
+explosive damage distortion
+(dmg)","ammo
+max pen
+(m)","ammo
+explode on impact","ammo
+explode on expire","ammo
+visual length max
+(m)","ammo
+visual radius
+(m)","weapon
+ammo count
+(rounds)","weapon
+rounds per shot
+(rnds/shot)","weapon
+fire rate
+(shot/min)","weapon
+burst rate
+(shots/min)","weapon
+burst shots
+(rounds/shot)","weapon
+burst dps
+(hp/s)","weapon
+spread per shot
+(/shot)","weapon
+spread minimum","weapon
+spread maximum","weapon
+spread instability","weapon
+spread decay rate
+(/s)","weapon
+spread decay","pwr capacity
+(pwr)","pwr regen rate
+(pwr/s)","pwr regen time
+(s)","pwr per shot
+(pwr/shot)","pwr default
+(pwr/s)","pwr active
+(pwr/s)","pwr shooting
+(pwr/s)","pwr drain time
+(s)","capacity
+(heat)","cool rate
+(heat/s)","cool time
+(s)","heat/pwr ratio
+(heat/pwr)","heat per shot
+(heat/shot)","heat active mult
+(heat/pwr)","heat shooting mult
+(heat/pwr)","overheat time
+(s)","heat overflow
+damage level","heat overflow
+damage tick
+(dmg/s)","heat overflow
+cooldown time
+(s)",ir pool multiplier,default_loadouts
+Sure Grip Tractor,Greycat_Industrial_Sure_Grip_Tractor,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Greycat_Industrial,1,150,150,10000,,,,,0.00,0,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Omnisky III Laser Cannon,AMRS_LaserCannon_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AMRS,1,150,150,12000,68.00,107.67,148.75,153.00,141.67,100,,AMRS_LaserCannon_S1_AMMO,1,0.80,2090,1672,0,85,0,85,0,85,0,,,,0.50,,,30,0.15,,,100,,,,0.03,0.00,0.25,0.05,0.06,,-1800.00,-9.90,181.82,-24.80,0.00,,,93.23,144.00,9.90,14.55,,9.70,,,20.73,,,,0.30,
+WEAK' Laser Cannon,VNCL_Weak_LC_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,1,150,75,,69.61,109.67,143.50,147.00,140.00,120,,VNCL_LC_S1_Q1_BOLT,1,0.84,2043,1716,0,70,0,70,0,70,0,,,,0.50,,,30,0.25,,,120,,,,1.00,0.00,0.50,,,0.75,-1800.00,-9.90,181.82,-19.90,-3.00,-3.00,,93.39,144.00,9.90,14.55,,7.80,,,23.27,,,,0.30,"VNCL_Glaive,VNCL_Scythe,VS_VNCL_Glaive,VS_VNCL_Scythe"
+BEHR M3A Laser Cannon,BEHR_LaserCannon_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,1,150,150,,74.75,113.75,156.00,162.50,151.67,140,,BEHR_LaserCannon_S1_AMMO,1,0.80,2185,1748,0,65,0,65,0,65,0,,,,0.50,,,30,0.15,,,140,,,,0.03,0.00,0.25,0.05,0.06,,-1800.00,-9.00,200.00,-16.50,-3.00,,,103.89,144.00,9.00,16.00,,6.50,,,21.56,,,,0.30,
+NN-13 Neutron Cannon,MXOX_NeutronCannon_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,MXOX,1,150,150,,76.00,114.00,156.75,161.50,150.42,95,,MXOX_NeutronCannon_S1_AMMO,1,2.14,760,1626,0,95,0,95,0,95,0,,,,0.50,,,30,0.40,,,95,,,,0.03,0.00,0.25,0.10,0.06,,-1800.00,-8.60,209.30,-23.20,-3.00,,,108.12,144.00,8.60,16.74,,9.10,,,22.41,,,,0.30,"AEGS_Gladius_Valiant,DRAK_Cutlass_Red"
+CF-007 Bulldog Repeater,KLWE_LaserRepeater_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KLWE,1,150,150,8000,72.50,116.00,157.50,168.00,162.50,325,,KLWE_LaserRepeater_S1_AMMO,1,0.70,2090,1463,0,30,0,30,0,30,0,,,,0.50,,,30,0.15,,,325,,,,0.03,0.00,0.25,0.05,0.06,,-1800.00,-10.80,166.67,-8.60,-3.00,,,87.09,144.00,10.80,13.33,,3.40,,,18.15,,,,0.30,"AEGS_Avenger_Titan,AEGS_Gladius,AEGS_Gladius_CITCON16,AEGS_Gladius_Survival,AEGS_Gladius_Tutorial,ANVL_Gladiator,ANVL_Gladiator_Pirate,ANVL_Hornet_F7A_Dogfight,ANVL_Hornet_F7CM,ANVL_Hornet_F7CM_Instructor,ANVL_Hornet_F7CM_SCItem,ANVL_Hornet_F7C_Tutorial,CNOU_Mustang_WeakPirate,DRAK_Herald,ORIG_350r,ORIG_350r_Pirate,ORIG_350r_Survival,RSI_Aurora_LN,RSI_Aurora_LN_Pirate,RSI_Aurora_LN_Survival,RSI_Aurora_MR_Survival"
+9-Series Longsword,KBAR_BallisticCannon_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KBAR,1,150,150,4000,99.17,116.17,161.50,170.00,155.83,110,400,30mm_AMMO,1,1.37,1410,1932,85,0,0,85,85,0,0,,,,0.50,,,10,0.04,400,,110,,,,0.03,0.00,0.25,0.10,0.06,,-9999.00,-8.10,1234.44,-1.00,-3.00,,,,144.00,8.10,17.78,,7.60,0.00,,22.57,,,,0.10,"AEGS_Avenger_Titan_Renegade,ORIG_350r_Pirate,ORIG_85X,RSI_Aurora_CL,RSI_Aurora_ES"
+Suckerpunch Distortion Cannon,JOKR_DistortionCannon_S1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,JOKR,1,150,150,,97.17,148.50,198.00,209.00,192.50,105,,JOKR_DistortionCannon_S1_AMMO,1,0.79,2005,1584,0,0,110,110,0,0,110,,,,0.50,,,30,0.15,,,105,,,,0.03,0.00,0.25,0.05,0.06,,-1800.00,-9.00,200.00,-21.40,-3.00,,,103.47,144.00,9.00,16.00,,8.40,,,23.20,,,,0.30,"AEGS_Avenger_Stalker,AEGS_Avenger_Warlock,DRAK_Cutlass_Black,DRAK_Cutlass_Blue,DRAK_Cutlass_Survival,DRAK_Cutlass_WeakPirate,ORIG_m50_Pirate,ORIG_m50_Survival"
+WEAK' Laser Cannon,VNCL_LC_S1_Q1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,1,150,75,,210.00,211.17,217.00,217.00,210.00,180,,VNCL_LC_S1_Q1_BOLT,1,0.84,2043,1716,0,70,0,70,0,70,0,,,,0.50,,,30,0.25,,,180,,,,1.00,0.00,0.50,,,0.75,-250.00,-37.50,6.67,,-3.00,-3.00,-3.00,,120.00,3.00,40.00,1.00,,,,,,,,0.10,
+SW16BR2 “Sawbuck”,BEHR_BallisticRepeater_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,2,150,150,,71.29,106.67,150.40,153.60,149.33,280,400,25mm_AMMO,1,1.30,1222,1589,32,0,0,32,32,0,0,,,,0.50,,,30,0.10,400,,280,,,,1.00,0.00,1.00,,,0.75,-9999.00,-10.80,925.83,-1.00,-3.00,,,,173.00,10.80,16.02,,4.10,,,20.05,0.20,0.25,3,0.10,"ANVL_Hornet_F7CS_Captain_Survival,DRAK_Cutlass_Captain_Survival,DRAK_Cutlass_WeakPirate"
+VNCL Plasma Repeater S2,VNCL_Blade_PlasmaCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,2,150,75,,88.33,110.00,175.00,180.00,166.67,100,,VNCL_Blade_PC_Bolt,1,2.00,1200,2400,0,100,0,100,0,100,0,,,,0.50,,,30,0.50,,,100,,,,0.00,0.00,0.00,,,0,-2160.00,-5.60,385.71,-18.30,-3.00,-3.00,-3.00,,144.00,5.60,25.71,,7.20,,,20.57,,,,0.30,
+APAR Mass Driver,APAR_MassDriver_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,APAR,2,150,150,,116.67,147.00,220.50,231.00,210.00,60,120,80mm_Rail_AMMO,1,1.43,1856,2654,210,0,0,210,210,0,0,,,,0.50,,,90,1.40,120,,60,,,,1.00,0.00,1.00,,,0.75,-9999.00,-6.10,1639.18,-1.00,-3.00,,,,173.00,6.10,28.36,,12.60,,,23.28,0.20,0.25,3,0.10,"ORIG_325a,ORIG_325a_Pirate,ORIG_325a_Survival"
+Omnisky VI Laser Cannon,AMRS_LaserCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AMRS,2,150,150,,118.50,150.75,209.25,229.50,202.50,90,,AMRS_LaserCannon_S2_AMMO,2,1.23,1986,2443,0,135,0,135,0,135,0,,,,0.50,,,50,0.20,,,90,,,,0.03,0.00,0.25,0.10,0.06,,-2160.00,-6.30,342.86,-20.80,0.00,,,178.19,173.00,6.30,27.46,,8.20,,,27.21,,,,0.30,"DRAK_Cutlass_Captain_Survival,ORIG_300i,ORIG_300i_WeakPirate,ORIG_315p,ORIG_325a,ORIG_325a_Pirate,ORIG_325a_Survival,ORIG_350r,ORIG_350r_Survival"
+R-18 rocket pod,CNOU_Delta_RocketPod_x18,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Consolidated Outlands,2,170,150,,51.59,154.78,263.55,276.10,251.00,60,36,Rocket_AMMO,0,2.80,900,2520,251,0,0,251,1,0,0,250,0,0,0.50,1,1.00,0,1.00,36,,60,,,,1.00,0.00,0.00,,,0.5,-600.00,-100.00,6.00,-10.00,,-2.00,,,600.00,40.00,15.00,,3.00,0.25,0.25,,,,,0.10,"CNOU_Mustang_Delta,CNOU_Mustang_WeakPirate"
+Tarantula GT-870,GATS_BallisticCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,GATS,2,150,150,,122.22,156.67,225.00,230.00,216.67,130,600,35mm_AMMO,1,1.63,1700,2771,100,0,0,100,100,0,0,,,,0.50,,,50,0.10,600,,130,,,,0.05,0.00,0.25,0.20,0.06,,-9999.00,-5.90,1694.75,-1.00,-3.00,,,,173.00,5.90,29.32,,5.60,0.00,,26.68,,,,0.10,ANVL_Hornet_F7CS_Survival
+NN-14 Neutron Cannon,MXOX_NeutronCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,MXOX,2,150,150,,126.00,159.60,252.00,268.80,238.00,85,,MXOX_NeutronCannon_S2_AMMO,2,2.80,855,2394,0,168,0,168,0,168,0,,,,0.50,,,50,0.50,,,85,,,,0.05,0.00,0.25,0.20,0.06,,-2160.00,-5.80,372.41,-22.60,-3.00,,,,168.00,5.80,28.97,,8.90,,,23.21,,,,0.30,
+M4A Laser Cannon,BEHR_LaserCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,2,150,150,,125.89,161.33,247.50,253.00,238.33,130,,BEHR_LaserCannon_S2_AMMO,2,1.40,1781,2493,0,110,0,110,0,110,0,,,,0.50,,,50,0.20,,,130,,,,0.05,0.00,0.25,0.05,0.06,,-2160.00,-5.70,378.95,-14.70,-3.00,,,,173.00,5.70,30.35,,5.80,,,23.58,,,,0.30,"ANVL_Gladiator,ANVL_Hornet_F7CM,ANVL_Hornet_F7CM_Instructor,ANVL_Hornet_F7CM_SCItem,ANVL_Hornet_F7C_Wildfire"
+Sledge II Mass Driver Cannon,KLWE_MassDriverCannon_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KLWE,2,150,150,8000,127.72,164.67,247.00,266.00,237.50,75,120,60mm_Rail_AMMO,1,1.43,1969,2816,190,0,0,190,190,0,0,,,,0.50,,,90,0.15,120,,75,,,,1.00,0.00,2.00,,,0.75,-9999.00,-5.90,1694.75,-1.00,-1.00,,,,173.00,5.90,29.32,,10.00,0.00,,23.22,,,,0.10,AEGS_Sabre_Comet
+Scorpion GT-215,GATS_BallisticGatling_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,GATS,2,150,150,,122.34,183.33,298.10,334.40,330.00,900,1000,20mm_AMMO,1,1.50,1260,1890,22,0,0,22,22,0,0,,,,0.50,,,30,0.08,1000,,900,,,,0.01,0.00,0.25,,,0,-9999.00,-6.30,1587.14,-1.00,-3.00,,,,173.00,6.30,27.46,,1.10,0.00,,16.89,0.20,0.25,3.00,0.10,"AEGS_Gladius,AEGS_Gladius_CITCON16,AEGS_Gladius_Pirate,AEGS_Gladius_SQ42,AEGS_Gladius_Survival,AEGS_Gladius_Tutorial"
+Tigerstreik T-19P,KRIG_BallisticGatling_S2_Parasite,VehicleWeapon,VehicleWeapon,WeaponGun,NoseMounted,KRIG,2,200,200,,61.23,183.70,315.70,352.00,348.33,950,500,20mm_AMMO,1,1.50,1260,1890,22,0,0,22,22,0,0,,,,0.50,,,30,0.08,500,,950,,,,0.01,0.00,0.25,,,0,-9999.00,-7.20,1388.75,-1.00,-3.00,,,,172.00,7.20,23.89,,1.10,0.00,,16.75,0.20,0.25,3,0.10,KRIG_P52_Merlin
+CF-117 Badger Repeater,KLWE_LaserRepeater_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KLWE,2,150,150,,128.56,197.60,265.20,270.40,260.00,300,,KLWE_LaserRepeater_S2_AMMO,2,0.96,1758,1688,0,52,0,52,0,52,0,,,,0.50,,,50,0.20,,,300,,,,0.03,0.00,1.00,0.05,0.06,,-2160.00,-10.80,200.00,-9.20,-5.00,,,102.31,173.00,10.80,16.02,,3.60,,,23.31,,,,0.30,"AEGS_Gladius_SQ42,AEGS_Gladius_Valiant,AEGS_Sabre,ANVL_Hornet_F7C,ANVL_Hornet_F7CM,ANVL_Hornet_F7CM_Instructor,ANVL_Hornet_F7CM_SCItem,ANVL_Hornet_F7CR,ANVL_Hornet_F7CS,ANVL_Hornet_F7CS_Pirate,ANVL_Hornet_F7C_Weak,CNOU_Mustang_Delta,DRAK_Cutlass_Black,DRAK_Cutlass_Black_S42_Pirate,DRAK_Cutlass_Blue,DRAK_Cutlass_Captain_Survival,DRAK_Cutlass_Survival,DRAK_Cutlass_WeakPirate,DRAK_Herald"
+Behring MVSA Laser Cannon,BEHR_LaserCannon_Vanguard_S2,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,2,150,150,,153.39,198.00,291.50,297.00,284.17,155,,BEHR_LaserCannon_S2_AMMO,2,1.40,1781,2493,0,110,0,110,0,110,0,,,,0.50,,,50,0.20,,,155,,,,0.06,0.10,0.45,0.00,0.12,,-2360.00,-6.00,393.33,-12.80,-3.00,,,,182.00,6.00,30.33,,5.00,,,25.50,,,,0.30,"AEGS_Vanguard,AEGS_Vanguard_Hoplite,AEGS_Vanguard_Pirate"
+XIAN Laser Cannon S3,XIAN_LaserCannon_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,XIAN,3,150,150,,,,,,0.00,0,,BEHR_LaserCannon_S3_AMMO,3,2.63,1568,4124,0,135,0,135,0,135,0,,,,0.50,,,50,0.25,,,0,,,,,,,,,,-2520.00,-5.80,434.48,,-3.00,,,,168.00,5.80,28.97,,,,,,,,,0.30,
+AMRS PyroBurst,AMRS_ScatterGun_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AMRS,3,150,150,,35.47,48.13,72.20,98.80,88.67,70,,AMRS_ScatterGun_S3_AMMO,0,0.53,1283,680,1,75,0,76,1,0,0,0,75,0,0.50,1,1.00,0,0.50,,10,70,,,,0.40,1.00,3.00,0.15,0.60,,-2520.00,-9.00,280.00,-48.90,-15.00,,,143.80,202.00,9.00,22.44,,19.20,,,13.82,,,,0.30,"AEGS_Sabre_Comet,DRAK_Cutlass_Black_Pirate"
+11-Series Broadsword,KBAR_BallisticCannon_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KBAR,3,150,150,12000,62.22,83.33,140.00,150.00,133.33,80,900,35mm_AMMO,1,1.63,1700,2771,100,0,0,100,100,0,0,,,,0.50,,,50,0.10,900,,80,,,,0.03,0.00,0.25,0.30,0.06,,-9999.00,-5.60,1785.54,-1.00,-3.00,,,,202.00,5.60,36.07,,10.70,0.00,,21.25,,,,0.10,
+Omnisky IX Laser Cannon,AMRS_LaserCannon_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AMRS,3,150,150,,121.53,160.42,245.00,262.50,233.33,80,,AMRS_LaserCannon_S3_AMMO,3,3.15,1335,4205,0,175,0,175,0,175,0,,,,0.50,,,70,0.25,,,80,,,,0.03,0.00,0.25,0.15,0.06,,-2520.00,-5.90,427.12,-25.40,0.00,,,,201.00,5.90,34.07,,10.00,,,25.25,,,,0.30,
+M5A Laser Cannon,BEHR_LaserCannon_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,3,150,150,,140.25,182.25,276.75,283.50,270.00,120,,BEHR_LaserCannon_S3_AMMO,3,2.63,1568,4124,0,135,0,135,0,135,0,,,,0.50,,,50,0.25,,,120,,,,0.08,0.00,0.25,0.15,0.06,,-2520.00,-6.30,400.00,-18.00,-3.00,,,,202.00,6.30,32.06,,7.10,,,24.29,,,,0.30,"RSI_Constellation_Andromeda_Pirate,XIAN_Scout,XIAN_Scout_SQ42"
+Tarantula GT-870 Mark 3,GATS_BallisticCannon_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,GATS,3,150,150,,140.00,186.67,300.00,320.00,283.33,85,360,60mm_AMMO,1,2.86,1710,4891,200,0,0,200,200,0,0,,,,0.50,,,70,0.15,360,,85,,,,0.08,0.00,0.25,0.30,0.06,,-9999.00,-5.70,1754.21,-1.00,-3.00,,,,202.00,5.70,35.44,,9.70,0.00,,24.12,,,,0.10,"ANVL_Hornet_F7C_Wildfire,DRAK_Cutlass_Black_Pirate,DRAK_Cutlass_Survival,MISC_Freelancer_Base"
+VNCL Laser Repeater S3,VNCL_Blade_LaserRepeater_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,3,150,150,8000,139.58,190.00,273.75,337.50,325.00,260,,VNCL_Blade_LaserRepeater_S3_AMMO,3,2.10,1069,2245,0,75,0,75,0,75,0,,,,0.50,,,70,1.00,,,260,,,,0.00,0.00,0.00,,,0,-2520.00,-9.90,254.55,-12.80,-3.00,,,135.56,168.00,9.90,16.97,,5.00,,,13.84,,,,0.30,
+CF-227 Panther Repeater,KLWE_LaserRepeater_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KLWE,3,150,150,,173.11,242.25,361.00,446.50,435.42,275,,KLWE_LaserRepeater_S3_AMMO,3,1.93,1297,2503,0,95,0,95,0,95,0,,,,0.50,,,70,0.25,,,275,,,,0.03,0.00,1.00,0.05,0.06,,-2520.00,-9.90,254.55,-13.10,-10.00,,,134.02,202.00,9.90,20.40,,5.20,,,14.26,,,,0.30,"AEGS_Sabre,AEGS_Sabre_Pirate"
+Mantis GT-220,GATS_BallisticGatling_S3,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,GATS,3,300,200,16000,194.84,250.13,414.40,566.40,560.00,1050,1600,25mm_AMMO,1,1.30,1222,1589,32,0,0,32,32,0,0,,,,0.50,,,30,0.10,1600,,1050,,,,0.01,0.00,0.50,,,0,-9999.00,-6.80,1470.44,-1.00,-3.00,,,,202.00,6.80,29.71,,1.30,0.00,,12.54,0.20,0.25,3,0.10,"ANVL_Hornet_F7A_Dogfight,ANVL_Hornet_F7C_Tutorial,RSI_Constellation_Andromeda_Pirate"
+KRIG Tigerstreik T-21,KRIG_BallisticGatling_S3,VehicleWeapon,VehicleWeapon,WeaponGun,NoseMounted,KRIG,3,300,200,,203.20,262.93,441.60,579.20,573.33,1075,1600,25mm_AMMO,1,1.30,1222,1589,32,0,0,32,32,0,0,,,,0.50,,,30,0.10,1600,,1075,,,,0.01,0.00,0.50,,,0,-9999.00,-6.50,1538.31,-1.00,-3.00,,,,202.00,6.50,31.08,,1.20,0.00,,13.42,0.20,0.25,3,0.10,"AEGS_Avenger_Stalker,AEGS_Avenger_Titan,AEGS_Avenger_Titan_Renegade,AEGS_Avenger_Warlock"
+Omnisky XII Laser Cannon,AMRS_LaserCannon_S4,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AMRS,4,150,150,,213.89,291.67,455.00,490.00,437.50,75,,AMRS_LaserCannon_S4_AMMO,4,4.55,1097,4991,0,350,0,350,0,350,0,,,,0.50,,,90,0.30,,,75,,,,0.03,0.00,0.25,0.20,0.06,,-2880.00,-5.80,496.55,-29.30,0.00,,,,231.00,5.80,39.83,,11.50,,,25.60,,,,0.30,
+Kroneg FL-33 Laser Cannon,KRNG_LaserCannon_S4,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,KRNG,4,150,150,,219.00,292.50,513.00,567.00,540.00,120,,BEHR_LaserCannon_S4_AMMO,4,4.55,1178,5360,0,270,0,270,0,270,0,,,,0.50,,,90,0.30,,,120,,,,0.00,0.00,0.00,,,0,-2880.00,-5.20,553.85,-19.60,-3.00,,,,192.00,5.20,36.92,,7.70,,,17.87,,,,0.30,
+M6A Laser Cannon,BEHR_LaserCannon_S4,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,4,150,150,,229.50,319.50,513.00,540.00,495.00,110,,BEHR_LaserCannon_S4_AMMO,4,4.55,1178,5360,0,270,0,270,0,270,0,,,,0.50,,,90,0.30,,,110,,,,0.03,0.00,0.25,0.20,0.06,,-2880.00,-5.40,533.33,-19.90,-3.00,,,,231.00,5.40,42.78,,7.80,,,25.11,,,,0.30,"MISC_Starfarer_Dead,RSI_Constellation_Andromeda,RSI_Constellation_Aquila"
+Apocalypse Arms Revenant Ballistic Gatling,APAR_BallisticGatling_S4,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,APAR,4,300,200,16000,259.84,353.47,633.60,959.20,953.33,1300,1600,28mm_AMMO,1,1.30,1180,1534,44,0,0,44,44,0,0,,,,0.50,,,30,0.11,1600,,1300,,,,0.02,0.00,0.50,,,0,-9999.00,-6.30,1587.14,-1.00,-3.00,,,,249.00,6.30,39.52,,1.30,0.00,,11.44,0.05,0.25,3,0.10,"AEGS_Vanguard,AEGS_Vanguard_Hoplite"
+BEHR C-788 Ballistic Cannon,BEHR_BallisticCannon_S4,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,4,150,150,,445.49,615.68,1126.25,1171.30,1051.17,70,240,106mm_exp_AMMO,0,3.38,1100,3718,451,0,450,901,1,0,0,450,0,450,0.50,1,1.00,0,0.35,240,,70,,,,1.00,0.00,1.00,,,0.75,-9999.00,-5.30,1886.60,-1.00,-3.00,,,,231.00,5.30,43.58,,13.20,,,21.17,0.20,0.25,3,0.10,"MISC_Starfarer,MISC_Starfarer_Gemini"
+AEGS Ballistic Repeater,AEGS_BallisticRepeater_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,AEGS,5,150,150,,79.81,99.17,153.00,238.00,240.83,170,1000,40mm_AMMO,1,1.50,625,938,85,0,0,85,85,0,0,,,,0.50,,,30,0.30,1000,,170,240,2,680.000,1.50,0.00,2.00,,,1.75,-9999.00,-9.00,1111.00,-1.00,-3.00,,,,216.00,9.00,24.00,,10.80,,,9.60,0.20,0.25,3.00,0.10,
+,MXOX_LaserGatling_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,MXOX,5,150,150,,187.67,239.00,360.00,540.00,600.00,600,,MXOX_LaserGatling_S5_AMMO,5,0.35,5700,1995,0,60,0,60,0,60,0,,,,0.50,,,100,1.50,,,600,,,,0.00,1.00,2.00,,,0,-3240.00,-10.80,300.00,-9.20,-15.00,,,160.00,216.00,10.80,20.00,,3.60,,,8.33,,,,0.30,
+WAR' Plasma Cannon,VNCL_PC_Scythe_Right,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,250.25,255.75,272.25,297.00,247.50,30,,VNCL_Scythe_PC_Bolt,1,4.38,1283,5620,0,495,0,495,0,495,0,,,,0.50,,,100,1.00,,,30,,,,0.00,0.00,0.00,,,0,-250.00,-37.50,6.67,,-3.00,-3.00,-3.00,,312.00,13.30,23.46,1.00,,,,,,,,0.10,
+WAR' Plasma Cannon,VNCL_PlasmaCannon,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,250.25,255.75,272.25,297.00,247.50,30,,VNCL_Scythe_PC_Bolt,1,4.38,1283,5620,0,495,0,495,0,495,0,,,,0.50,,,100,1.00,,,30,,,,0.00,0.00,0.00,,,0,-250.00,-37.50,6.67,,-3.00,-3.00,-3.00,,260.00,13.30,19.55,1.00,,,,,,,,0.10,
+<div style,VNCL_PlasmaCannon_Stinger_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,250.25,255.75,272.25,297.00,247.50,30,,VNCL_Scythe_PC_Bolt,1,4.38,1283,5620,0,495,0,495,0,495,0,,,,0.50,,,100,1.00,,,30,,,,0.00,0.00,0.00,,,0,-250.00,-37.50,6.67,,-3.00,-3.00,-3.00,,260.00,13.30,19.55,1.00,,,,,,,,0.10,
+VNCL Stinger Neutron Cannon S5,VNCL_Stinger_NC_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,247.22,325.00,575.00,750.00,666.67,80,,VNCL_NC_S5_Q1_BOLT,1,3.50,1663,5821,0,500,0,500,0,500,0,,,,0.50,,,100,1.00,,,80,,,,,,,,,,-3240.00,-5.90,549.15,-36.40,-3.00,-3.00,,,216.00,5.90,36.61,,14.30,,,14.29,,,,0.30,
+WAR' Neutron Cannon,VNCL_War_NC_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,236.11,325.00,575.00,700.00,625.00,75,,VNCL_NC_S5_Q1_BOLT,1,3.50,1663,5821,0,500,0,500,0,500,0,,,,0.50,,,100,1.00,,,75,,,,,,,,,,-3240.00,-5.80,558.62,-38.20,-3.00,-3.00,,,244.00,5.80,42.07,,15.00,,,17.41,,,,0.30,"VNCL_Scythe,VS_VNCL_Scythe"
+BEHR M7A Laser Cannon,BEHR_LaserCannon_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,BEHR,5,150,150,,242.78,335.67,627.00,684.00,633.33,100,,BEHR_LaserCannon_S5_AMMO,4,4.90,1283,6287,0,380,0,380,0,380,0,,,,0.50,,,100,0.35,,,100,,,,0.03,0.00,0.25,0.20,0.06,,-3240.00,-5.90,549.15,-29.00,-3.00,,,,259.00,5.90,43.90,,11.40,,,19.86,,,,0.30,AEGS_Vanguard_Pirate
+WRATH' Plasma Cannon,VNCL_Wrath_PC_S5,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,253.00,354.75,668.25,792.00,701.25,85,,VNCL_Scythe_PC_Bolt,1,4.38,1283,5620,0,495,0,495,0,495,0,,,,0.50,,,100,1.00,,,85,,,,0.00,0.00,0.00,,,0,-3240.00,-5.70,568.42,-35.10,-3.00,-3.00,,,260.00,5.70,45.61,,13.80,0.00,,17.33,,,,0.30,"VNCL_Glaive,VNCL_Scythe,VS_VNCL_Glaive,VS_VNCL_Scythe"
+WAR' Neutron Cannon,VNCL_NC_S5_Q1,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,Vanduul Raider,5,150,75,,502.78,508.33,525.00,550.00,500.00,60,,VNCL_NC_S5_Q1_BOLT,1,3.50,1663,5821,0,500,0,500,0,500,0,,,,0.50,,,100,1.00,,,60,,,,,,,,,,-250.00,-37.50,6.67,,-3.00,-3.00,-3.00,,312.00,13.30,23.46,0.65,,,,,,,,0.10,
+RSI Ballistic Repeater S9,RSI_BallisticRepeater_S9,VehicleWeapon,VehicleWeapon,WeaponGun,Gun,RSI,9,150,150,,16722.22,16833.33,17500.00,18000.00,16666.67,100,1000,1000mm_AMMO,1,10.00,500,5000,10000,0,0,10000,10000,0,0,,,,0.50,,,60,0.25,1000,,100,60,2,20000.000,1.50,0.10,0.10,,,1.75,0.00,0.00,,-1.00,-3.00,,,,600.00,35.00,17.14,,13.00,,,,0.20,0.25,3.00,0.10,
